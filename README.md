@@ -17,7 +17,7 @@ O projeto consiste no desenvolvimento de uma plataforma digital interativa que p
 <img width="937" height="633" alt="image" src="https://github.com/user-attachments/assets/97d8743b-08c3-4a57-a8fe-5c9ab9a6d3cf" />
 
 
-**REQUISITOS DE ALTO NÍVEL**
+**REQUISITOS DE ALTO NÍVEL🛠️**
 1. O sistema deve permitir o cadastro de contas e a exibição dos perfis dos 
 usuários
 2. O sistema deve possibilitar a configuração dos perfis após a criação da conta
@@ -38,17 +38,17 @@ tendências
 
 **TECNOLOGIAS QUE SERÃO USADAS💻** 
 
-FRONTEND: ReactJS;
-BACKEND: Node.js com Express e TypeScript;
-BANCO DE DADOS: Sql Server;
-NUVEM: AWS;
-MOBILE: EXPO;
+- **Frontend:** ReactJS  
+- **Backend:** Node.js + Express + TypeScript  
+- **Banco de Dados:** SQL Server  
+- **Nuvem:** AWS  
+- **Mobile:** Expo
 
 
-**INTEGRANTES E RESPONSÁVEIS**
+**INTEGRANTES E RESPONSÁVEIS👥**
 
-Arthur (MOBILE);
-Gabriel Acciari (FRONTEND);
-Gabriel Nunes (NUVEM);
-Nicolas (BACKEND);
-Otávio (BD);
+- **Arthur** – Mobile  
+- **Gabriel Acciari** – Frontend  
+- **Gabriel Nunes** – Nuvem  
+- **Nicolas** – Backend  
+- **Otávio** – Banco de Dados
