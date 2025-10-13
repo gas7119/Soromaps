@@ -29,7 +29,7 @@ usuários
 8. O sistema deve possibilitar o upload de fotos
 9. O sistema deve permitir a criação de comentários com possibilidade de 
 resposta
-10• O sistema deve gerar estatísticas baseadas em avaliações e exibir 
+10. O sistema deve gerar estatísticas baseadas em avaliações e exibir 
 tendências
 11. O sistema deve permitir a busca de pontos para os usuários
 12. Filtros de busca
