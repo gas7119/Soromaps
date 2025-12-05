@@ -6,6 +6,11 @@ O projeto consiste no desenvolvimento de uma plataforma digital interativa que p
 
 👉 **Esboço do Projeto (Figma):**  
 https://www.figma.com/make/QeH6cpMMMLzWpcahXSmB4E/Plataforma-Interativa-Sorocaba?node-id=0-1&p=f&t=4B6XvFunslTZ5fr7-0
+## 🎥 Vídeo da Apresentação Final
+
+Acesse o vídeo completo do protótipo final do Soromaps no link abaixo:
+
+➡️ **https://youtu.be/ikABfE7xs0U?si=GWaXctGDIQR5dzzm**
 
 ---
 
