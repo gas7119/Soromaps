@@ -61,6 +61,6 @@ Acesse o vídeo completo do protótipo final do Soromaps no link abaixo:
 - **Nicolas** – Backend  
 - **Otávio** – Banco de Dados  
 
-![Screenshot do programa](docs/screenshots/1)
-![Screenshot do programa](docs/screenshots/2)
-![Screenshot do programa](docs/screenshots/3)
+![Screenshot do programa](docs/screenshots/1.png)
+![Screenshot do programa](docs/screenshots/2.png)
+![Screenshot do programa](docs/screenshots/3.png)
